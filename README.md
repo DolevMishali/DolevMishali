@@ -1,4 +1,4 @@
-<h1 align="center" letter-spacing="5px">Hi 👋, I'm Dolev Mishali</h1>
+<h1 align="center" style="letter-spacing: 20px;">Hi 👋, I'm Dolev Mishali</h1>
 <h3 align="center">A passionate Software Developer, Computer Engineering Student</h3>
 
 
