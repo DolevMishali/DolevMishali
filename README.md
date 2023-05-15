@@ -3,7 +3,7 @@
 <br/><br/><br/>
 
 - 🔭 I’m currently working on Yeelight Bulb Web Controller
-<a href="https://github.com/DolevMishali/Bulb-Project" target="blank"><img  width="40" height="30" src="https://img.icons8.com/ultraviolet/80/mirrored-reflector-bulb.png" alt="mirrored-reflector-bulb"/></a>
+<a href="https://github.com/DolevMishali/Bulb-Project" target="blank"><img  width="23" height="23" src="https://img.icons8.com/ultraviolet/80/mirrored-reflector-bulb.png" alt="mirrored-reflector-bulb"/></a>
 <br/> <br/>
 - 🌱 I’m currently learning Flask, Node.js, React
 <br/><br/>
