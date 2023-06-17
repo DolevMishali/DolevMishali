@@ -17,7 +17,7 @@
 </p>
 <br/><br/>
 
-![20230225_031931_0000](https://github.com/DolevMishali/DolevMishali/assets/102062869/8e5f749d-cfaa-423f-9cad-06d74e1d20da)
+![image](https://github.com/DolevMishali/DolevMishali/assets/102062869/b547c30d-a507-48fe-80f1-61c50e0520b6)
 
 <h3 align="left">Languages and Tools:</h3>
 <br/><br/>
