@@ -19,8 +19,6 @@
 
 ![image](https://github.com/DolevMishali/DolevMishali/assets/102062869/b547c30d-a507-48fe-80f1-61c50e0520b6)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21b3bxjzy52t2z4qjj37jagpy&unique={true|1|on|yes})
-
 <h3 align="left">Languages and Tools:</h3>
 <br/><br/>
 
